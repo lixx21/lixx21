@@ -13,9 +13,9 @@ Certificates that I have:
 
 📄 [Data Science Methodology by IBM](https://coursera.org/share/ecb9c96fdaaf9269edc8557218ca222a)
 
-📄 [Python for data science, AI, and Development by IBM](https://coursera.org/share/08473776c43b797a2ab69d03b0a4020d)
+📄 [Python for Data Science, AI, and Development by IBM](https://coursera.org/share/08473776c43b797a2ab69d03b0a4020d)
 
-📄 [Python Project for Data Sciencet by IBM](https://coursera.org/share/60f9cd74ef588d211c65e0c08081d563)
+📄 [Python Project for Data Science by IBM](https://coursera.org/share/60f9cd74ef588d211c65e0c08081d563)
 
 📄 [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/QLZ91336EP5D)
 
