@@ -17,6 +17,8 @@ Certificates that I have:
 
 📄 [Python Project for Data Science by IBM](https://coursera.org/share/60f9cd74ef588d211c65e0c08081d563)
 
+📄 [Introduction to Data Science by CloudSwyft Global Systems, Inc](https://www.credential.net/7d4af74d-89e8-44b9-b731-b0d50f2004de#gs.e24ftj)
+
 📄 [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/QLZ91336EP5D)
 
 📄 [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/MEPJ53DE6P3V)
