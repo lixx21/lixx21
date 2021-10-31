@@ -2,9 +2,9 @@
   
 - 🌱 I’m currently learning about machine learning algorithm and data science
 - 📫 You can find me on:
-- Instagram: [@felixpratamasan](https://www.instagram.com/felixpratamasan/)
-- Twitter:  [@felixpratamas_](https://twitter.com/felixpratamas_)
-- linkedin: [Felix Pratamasan](https://www.linkedin.com/in/felix-pratamasan-39ba60218/)
+   - Instagram: [@felixpratamasan](https://www.instagram.com/felixpratamasan/)
+   - Twitter:  [@felixpratamas_](https://twitter.com/felixpratamas_)
+   - linkedin: [Felix Pratamasan](https://www.linkedin.com/in/felix-pratamasan-39ba60218/)
 
 Certificates that I have:
 
