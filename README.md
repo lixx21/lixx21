@@ -6,7 +6,8 @@
    - Twitter:  [@felixpratamas_](https://twitter.com/felixpratamas_)
    - linkedin: [Felix Pratamasan](https://www.linkedin.com/in/felix-pratamasan-39ba60218/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixx21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixx21&layout=compact&theme=tokyonight)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lixx21&show_icons=true&theme=tokyonight)
 
 Certificates that I have:
