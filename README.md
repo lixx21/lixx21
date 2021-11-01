@@ -6,6 +6,8 @@
    - Twitter:  [@felixpratamas_](https://twitter.com/felixpratamas_)
    - linkedin: [Felix Pratamasan](https://www.linkedin.com/in/felix-pratamasan-39ba60218/)
 
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 Certificates that I have:
 
 📄 [Machine Learning by Standford University](https://coursera.org/share/15cf8c25c3fe99b137354a93150a239f)
