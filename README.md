@@ -18,6 +18,8 @@ Certificates that I have:
 
 📄 [What is Data Science? by IBM](https://coursera.org/share/d1aeed84462b88cc96291087fc248daa)
 
+📄 [Tools for Data Science by IBM](https://coursera.org/share/d38281f4b634b705bb268651c0ca86a1)
+
 📄 [Data Science Methodology by IBM](https://coursera.org/share/ecb9c96fdaaf9269edc8557218ca222a)
 
 📄 [Python for Data Science, AI, and Development by IBM](https://coursera.org/share/08473776c43b797a2ab69d03b0a4020d)
