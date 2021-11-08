@@ -14,6 +14,8 @@ Certificates that I have:
 
 📄 [Machine Learning by Standford University](https://coursera.org/share/15cf8c25c3fe99b137354a93150a239f)
 
+📄 [Introduction to Data Science by IBM](https://coursera.org/share/65a0842897f87b2fc2b770c9006476c0)
+
 📄 [Databases and SQL for Data Science with Python by IBM](https://coursera.org/share/f82ffca194720c0dfadd6e4f076d7006)
 
 📄 [What is Data Science? by IBM](https://coursera.org/share/d1aeed84462b88cc96291087fc248daa)
