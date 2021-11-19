@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixx21&layout=compact&theme=tokyonight)
 
-Certificates that I've got:
+Certifications:
 
 📄 [Machine Learning by Standford University](https://coursera.org/share/15cf8c25c3fe99b137354a93150a239f)
 
