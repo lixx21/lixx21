@@ -14,7 +14,7 @@ Certifications:
 
 📄 [Machine Learning by Standford University](https://coursera.org/share/15cf8c25c3fe99b137354a93150a239f)
 
-📄 [Mathematics for Machine Learning by Imperial College London](https://coursera.org/share/8b686d506463cb1fc0697605f06a6203)
+📄 [Mathematics for Machine Learning: Linear Algebra by Imperial College London](https://coursera.org/share/8b686d506463cb1fc0697605f06a6203)
 
 📄 [Introduction to Data Science by IBM](https://coursera.org/share/65a0842897f87b2fc2b770c9006476c0)
 
