@@ -16,9 +16,13 @@ Certifications:
 
 📄 [Mathematics for Machine Learning: Linear Algebra by Imperial College London](https://coursera.org/share/8b686d506463cb1fc0697605f06a6203)
 
+📄 [Mathematics for Machine Learning: Multivariate Calculus by Imperial College London](https://www.coursera.org/account/accomplishments/verify/Z6LLB7Z2N5UN)
+
 📄 [Introduction to Data Science by IBM](https://coursera.org/share/65a0842897f87b2fc2b770c9006476c0)
 
 📄 [Databases and SQL for Data Science with Python by IBM](https://coursera.org/share/f82ffca194720c0dfadd6e4f076d7006)
+
+📄 [Data Analysis with Python by IBM](https://coursera.org/share/c972de4dc9506629db54339d6bd34ac3)
 
 📄 [What is Data Science? by IBM](https://coursera.org/share/d1aeed84462b88cc96291087fc248daa)
 
