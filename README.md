@@ -18,6 +18,8 @@ Certifications:
 
 📄 [Mathematics for Machine Learning: Multivariate Calculus by Imperial College London](https://www.coursera.org/account/accomplishments/verify/Z6LLB7Z2N5UN)
 
+📄 [Mathematics for Machine Learning: PCA by Imperial College London](https://coursera.org/share/233e17ce19b08e65588948a5541977ff)
+
 📄 [Introduction to Data Science by IBM](https://coursera.org/share/65a0842897f87b2fc2b770c9006476c0)
 
 📄 [Databases and SQL for Data Science with Python by IBM](https://coursera.org/share/f82ffca194720c0dfadd6e4f076d7006)
