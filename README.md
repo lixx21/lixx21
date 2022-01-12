@@ -20,17 +20,9 @@ Certifications:
 
 📄 [Mathematics for Machine Learning: PCA by Imperial College London](https://coursera.org/share/233e17ce19b08e65588948a5541977ff)
 
-📄 [Introduction to Data Science by IBM](https://coursera.org/share/65a0842897f87b2fc2b770c9006476c0)
-
-📄 [Databases and SQL for Data Science with Python by IBM](https://coursera.org/share/f82ffca194720c0dfadd6e4f076d7006)
+📄 [Introduction to Data Science Specialization by IBM](https://coursera.org/share/65a0842897f87b2fc2b770c9006476c0)
 
 📄 [Data Analysis with Python by IBM](https://coursera.org/share/c972de4dc9506629db54339d6bd34ac3)
-
-📄 [What is Data Science? by IBM](https://coursera.org/share/d1aeed84462b88cc96291087fc248daa)
-
-📄 [Tools for Data Science by IBM](https://coursera.org/share/d38281f4b634b705bb268651c0ca86a1)
-
-📄 [Data Science Methodology by IBM](https://coursera.org/share/ecb9c96fdaaf9269edc8557218ca222a)
 
 📄 [Python for Data Science, AI, and Development by IBM](https://coursera.org/share/08473776c43b797a2ab69d03b0a4020d)
 
