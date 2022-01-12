@@ -1,4 +1,4 @@
- Hi mate 👋🏻 my name is Felix Pratamasan, as an IT student I really obsessed with technology especially machine learning and data science. I am learning everyday about machine learning algorithm and make a project. My main goal is getting better everyday that is why I keep learning new stuff about machine learning, take some course and make a progress even if it is just 1% every day. You guys can see all of my projects here 😊. 
+ Hi mate 👋🏻 my name is Felix Pratamasan, as an IT student I really obsessed with technology especially machine learning and data science. I am learning everyday about machine learning algorithm and make a project. My main goal is getting better everyday that is why I keep learning new stuff about machine learning, take some courses and make a progress even if it is just 1% every day. You guys can see all of my projects here 😊. 
   
 - 🌱 I’m currently learning about machine learning algorithm and data science
 - 📫 You can find me on:
