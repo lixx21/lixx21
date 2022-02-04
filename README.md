@@ -32,6 +32,8 @@ Certifications:
 
 📄 [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/QLZ91336EP5D)
 
+📄 [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/GRX5K1G0YZ0M)
+
 📄 [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/MEPJ53DE6P3V)
 
 
