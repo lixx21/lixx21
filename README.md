@@ -36,6 +36,8 @@ Certifications:
 
 📄 [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/MEPJ53DE6P3V)
 
+📄 [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/JMZV2596NZN9)
+
 
 
 <!---
