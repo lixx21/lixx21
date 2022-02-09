@@ -38,6 +38,7 @@ Certifications:
 
 📄 [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/JMZV2596NZN9)
 
+📄 [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/53XEW51O0XRN)
 
 
 <!---
