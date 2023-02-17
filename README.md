@@ -1,7 +1,4 @@
 Hi mate 👋🏻 my name is Felix Pratamasan, as an IT student I really obsessed with technology especially machine learning and data science. I am learning everyday about machine learning algorithm and make a project. I am able to work with others as a teamwork. I also have an experienced and skills in Python, MySQL, Figma, Machine Learning and Deep Learning. I love to research a new things, learn a new things everyday, make a network and study every day because I believe that those things can help me improve myself. My main goal is getting better everyday that is why I keep learning new stuff about machine learning, take some courses and make a progress even if it is just 1% every day. You guys can see all of my projects here 😊. 
-
-![image](https://user-images.githubusercontent.com/91602612/206085604-b434202d-8c7a-43e6-b021-e29bc59e6abb.png)
-
   
 - 🌱 I’m currently learning about machine learning algorithm and data science
 - 📫 You can find me on:
