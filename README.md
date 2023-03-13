@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://www.sujitlibi.com.np/images/programmer.png" width="400" />
+  <img src="https://www.sujitlibi.com.np/images/programmer.png" width="500" />
   <h1> FELIX PRATAMASAN</h1>
   
   <h3>Machine Learning Engineer and Data Enthusiast</h3>
