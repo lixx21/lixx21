@@ -2,6 +2,8 @@
 <div id="header" align="center">
   <img src="https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-ovmwuk5y3uzvblmccxrq3c3qzzvodph9skmt3g579c.png" width="500" />
   <h1> FELIX PRATAMASAN</h1>
+  
+  I am a [Google Tensorflow Developer Certified](https://www.credential.net/5ae2e5ee-aebf-4e39-8bce-21ecafa6ef35) that has a passion in data field and machine learning 🧠. I can work with others as a teammate. I also have a several skills and projects in python, machine learning, data engineer, data analytics and data science. I'd love to learn and research new things everyday 😁.
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/felix-pratamasan/">
@@ -16,19 +18,17 @@
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=lixx21&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="skills">
+
+  <h1>Tech-Skills</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,github,aws,gcp,nginx,python,flask,pytorch,tensorflow,firebase,mongodb,mysql,postgresql" />
+  </a>
   
 </div>
 
-as an IT student I really obsessed with technology especially machine learning and data science 👨🏻‍💻. I am learning everyday about machine learning algorithm and make a project. I am able to work with others as a teamwork. I also have an experienced and skills in Python, MySQL, Figma, Machine Learning and Deep Learning. I love to research a new things, learn a new things everyday, make a network and study every day because I believe that those things can help me improve myself. My main goal is getting better everyday that is why I keep learning new stuff about machine learning, take some courses and make a progress even if it is just 1% every day. You guys can see all of my projects here 😊.
-
-  
-- 🌱 I’m currently learning about machine learning algorithm and data science
-- 📫 You can find me on:
-   - Instagram: [@felixpratamasan](https://www.instagram.com/felixpratamasan/)
-   - Twitter:  [@felixpratamas_](https://twitter.com/felixpratamas_)
-   - linkedin: [Felix Pratamasan](https://www.linkedin.com/in/felix-pratamasan-39ba60218/)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lixx21&show_icons=true&theme=tokyonight)
 
 
 <!---
