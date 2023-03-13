@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-ovmwuk5y3uzvblmccxrq3c3qzzvodph9skmt3g579c.png" width="500" />
+  <img src="https://www.sujitlibi.com.np/images/programmer.png" width="600" />
   <h1> FELIX PRATAMASAN</h1>
   
   <h3>Machine Learning Engineer and Data Enthusiast</h3>
