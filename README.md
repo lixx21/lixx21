@@ -3,6 +3,8 @@
   <img src="https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-ovmwuk5y3uzvblmccxrq3c3qzzvodph9skmt3g579c.png" width="500" />
   <h1> FELIX PRATAMASAN</h1>
   
+  <h3>Machine Learning Engineer and Data Enthusiast</h3>
+  
   I am a [Google Tensorflow Developer Certified](https://www.credential.net/5ae2e5ee-aebf-4e39-8bce-21ecafa6ef35) that has a passion in data field and machine learning 🧠. I can work with others as a teammate. I also have a several skills and projects in python, machine learning, data engineer, data analytics and data science. I'd love to learn and research new things everyday 😁.
 
   <div id="badges">
