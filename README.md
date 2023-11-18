@@ -3,7 +3,7 @@
   <img src="https://www.sujitlibi.com.np/images/programmer.png" width="600" />
   <h1> FELIX PRATAMASAN</h1>
   
-  <h3>Machine Learning Engineer and Data Enthusiast</h3>
+  <h3>Machine Learning Engineer, Data Engineer, Data Scientist and Data Analyst</h3>
   
   I am a [Google Tensorflow Developer Certified](https://www.credential.net/5ae2e5ee-aebf-4e39-8bce-21ecafa6ef35) that has a passion in data field and machine learning 🧠. I can work with others as a teammate. I also have a several skills and projects in python, machine learning, data engineer, data analytics and data science. I'd love to learn and research new things everyday 😁.
 
