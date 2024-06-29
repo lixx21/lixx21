@@ -26,7 +26,7 @@
 
   <h1>Tech-Skills</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,github,aws,gcp,nginx,python,flask,pytorch,tensorflow,firebase,mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,github,aws,gcp,nginx,python,flask,pytorch,tensorflow,firebase,mongodb,mysql,postgresql,typescript,javascript" />
   </a>
   
 </div>
